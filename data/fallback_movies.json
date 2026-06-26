@@ -1,0 +1,146 @@
+[
+  {
+    "id": "inception",
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "plot": "A thief who steals secrets through dream-sharing technology is offered a chance at redemption — if he can plant an idea instead of stealing one.",
+    "traits": ["mind-bending", "sci-fi", "psychological", "thriller", "action"]
+  },
+  {
+    "id": "princess_bride",
+    "title": "The Princess Bride",
+    "year": 1987,
+    "rating": 8.0,
+    "plot": "A farmhand-turned-pirate must rescue his true love from an odious prince, with sword fights, giants, and plenty of wit along the way.",
+    "traits": ["adventure", "comedy", "romance", "fantasy", "classic"]
+  },
+  {
+    "id": "spirited_away",
+    "title": "Spirited Away",
+    "year": 2001,
+    "rating": 8.6,
+    "plot": "A young girl wanders into a world ruled by gods and spirits, where she must work in a bathhouse to free herself and her parents.",
+    "traits": ["animation", "fantasy", "family", "adventure", "emotional"]
+  },
+  {
+    "id": "silence_lambs",
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "rating": 8.6,
+    "plot": "A young FBI trainee seeks the help of an imprisoned cannibal killer to catch another serial killer who skins his victims.",
+    "traits": ["psychological", "thriller", "dark", "crime", "intense"]
+  },
+  {
+    "id": "grand_budapest",
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "rating": 8.1,
+    "plot": "The adventures of a legendary concierge and his protégé at a famous European hotel between the wars.",
+    "traits": ["comedy", "witty", "adventure", "nostalgic", "indie"]
+  },
+  {
+    "id": "interstellar",
+    "title": "Interstellar",
+    "year": 2014,
+    "rating": 8.7,
+    "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "traits": ["sci-fi", "epic", "emotional", "thought-provoking", "adventure"]
+  },
+  {
+    "id": "get_out",
+    "title": "Get Out",
+    "year": 2017,
+    "rating": 7.7,
+    "plot": "A young Black man visits his white girlfriend's family estate, where unsettling discoveries reveal a horrifying secret.",
+    "traits": ["horror", "psychological", "thriller", "thought-provoking", "dark"]
+  },
+  {
+    "id": "la_la_land",
+    "title": "La La Land",
+    "year": 2016,
+    "rating": 8.0,
+    "plot": "An aspiring actress and a jazz musician fall in love while pursuing their dreams in Los Angeles.",
+    "traits": ["musical", "romance", "uplifting", "emotional", "nostalgic"]
+  },
+  {
+    "id": "shawshank",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": 9.3,
+    "plot": "Two imprisoned men bond over years, finding solace and eventual redemption through acts of common decency.",
+    "traits": ["inspirational", "drama", "emotional", "classic", "thought-provoking"]
+  },
+  {
+    "id": "mad_max_fury",
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "rating": 8.1,
+    "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler with the help of a drifter named Max.",
+    "traits": ["action", "adventure", "intense", "epic", "sci-fi"]
+  },
+  {
+    "id": "parasite",
+    "title": "Parasite",
+    "year": 2019,
+    "rating": 8.5,
+    "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "traits": ["thriller", "dark", "thought-provoking", "drama", "psychological"]
+  },
+  {
+    "id": "paddington_2",
+    "title": "Paddington 2",
+    "year": 2017,
+    "rating": 8.0,
+    "plot": "Paddington looks for the perfect present for his aunt's birthday, but a thief frames him and he must clear his name.",
+    "traits": ["cozy", "heartwarming", "family", "comedy", "light"]
+  },
+  {
+    "id": "hereditary",
+    "title": "Hereditary",
+    "year": 2018,
+    "rating": 7.3,
+    "plot": "A grieving family is haunted by tragic and disturbing occurrences after the death of their secretive grandmother.",
+    "traits": ["horror", "psychological", "dark", "intense", "mystery"]
+  },
+  {
+    "id": "before_sunrise",
+    "title": "Before Sunrise",
+    "year": 1995,
+    "rating": 8.1,
+    "plot": "A young man and woman meet on a train in Europe and spend one evening together in Vienna, knowing it may be their only night.",
+    "traits": ["romance", "indie", "emotional", "thought-provoking", "classic"]
+  },
+  {
+    "id": "lord_rings",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "rating": 8.9,
+    "plot": "A meek Hobbit and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth.",
+    "traits": ["fantasy", "epic", "adventure", "action", "classic"]
+  },
+  {
+    "id": "free_solo",
+    "title": "Free Solo",
+    "year": 2018,
+    "rating": 8.1,
+    "plot": "Follow rock climber Alex Honnold as he attempts to conquer the first free solo climb of El Capitan's 3,000-foot vertical rock face.",
+    "traits": ["documentary", "intense", "inspirational", "adventure", "thought-provoking"]
+  },
+  {
+    "id": "knives_out",
+    "title": "Knives Out",
+    "year": 2019,
+    "rating": 7.9,
+    "plot": "A detective investigates the death of a patriarch of an eccentric, combative family during a gathering at their estate.",
+    "traits": ["mystery", "witty", "comedy", "thriller", "crime"]
+  },
+  {
+    "id": "whiplash",
+    "title": "Whiplash",
+    "year": 2014,
+    "rating": 8.5,
+    "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams are mentored by an instructor who will stop at nothing.",
+    "traits": ["intense", "drama", "psychological", "inspirational", "indie"]
+  }
+]

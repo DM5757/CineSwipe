@@ -1,0 +1,282 @@
+[
+  {
+    "id": "dark_psychological",
+    "title": "Dark & Psychological",
+    "description": "Mind-bending stories that probe guilt, obsession, and the fragile line between sanity and madness.",
+    "traits": ["psychological", "dark", "thriller"],
+    "weights": {"psychological": 3, "dark": 2, "thriller": 2}
+  },
+  {
+    "id": "cozy_comfort",
+    "title": "Cozy Comfort",
+    "description": "Warm blankets, gentle humor, and stories that feel like a hug on a rainy evening.",
+    "traits": ["cozy", "heartwarming", "light"],
+    "weights": {"cozy": 3, "heartwarming": 2, "light": 2}
+  },
+  {
+    "id": "epic_adventure",
+    "title": "Epic Adventure",
+    "description": "Sweeping journeys across impossible landscapes with heroes who refuse to turn back.",
+    "traits": ["adventure", "epic", "action"],
+    "weights": {"adventure": 3, "epic": 2, "action": 2}
+  },
+  {
+    "id": "laugh_out_loud",
+    "title": "Laugh Out Loud",
+    "description": "Sharp wit, absurd situations, and comedy that catches you off guard.",
+    "traits": ["comedy", "witty", "light"],
+    "weights": {"comedy": 3, "witty": 2, "light": 1}
+  },
+  {
+    "id": "slow_burn_romance",
+    "title": "Slow-Burn Romance",
+    "description": "Glances that linger, tension that builds, and love earned over time.",
+    "traits": ["romance", "emotional", "drama"],
+    "weights": {"romance": 3, "emotional": 2, "drama": 1}
+  },
+  {
+    "id": "edge_of_seat",
+    "title": "Edge of Your Seat",
+    "description": "Relentless pacing, high stakes, and twists that leave you breathless.",
+    "traits": ["thriller", "suspense", "intense"],
+    "weights": {"thriller": 2, "suspense": 3, "intense": 2}
+  },
+  {
+    "id": "sci_fi_wonder",
+    "title": "Sci-Fi Wonder",
+    "description": "Future worlds, cosmic questions, and technology that reshapes what it means to be human.",
+    "traits": ["sci-fi", "futuristic", "thought-provoking"],
+    "weights": {"sci-fi": 3, "futuristic": 2, "thought-provoking": 2}
+  },
+  {
+    "id": "nostalgic_classics",
+    "title": "Nostalgic Classics",
+    "description": "Timeless filmmaking with the charm and craftsmanship of another era.",
+    "traits": ["classic", "nostalgic", "drama"],
+    "weights": {"classic": 3, "nostalgic": 2, "drama": 1}
+  },
+  {
+    "id": "animated_magic",
+    "title": "Animated Magic",
+    "description": "Vibrant worlds and imaginative storytelling that transcends age.",
+    "traits": ["animation", "family", "fantasy"],
+    "weights": {"animation": 3, "family": 2, "fantasy": 2}
+  },
+  {
+    "id": "true_crime_edge",
+    "title": "True Crime Edge",
+    "description": "Real-world mysteries, moral gray zones, and investigations that unsettle.",
+    "traits": ["crime", "dark", "mystery"],
+    "weights": {"crime": 3, "dark": 2, "mystery": 2}
+  },
+  {
+    "id": "feel_good_inspire",
+    "title": "Feel-Good Inspiration",
+    "description": "Underdog triumphs and stories that remind you hope is still worth fighting for.",
+    "traits": ["inspirational", "heartwarming", "uplifting"],
+    "weights": {"inspirational": 3, "heartwarming": 2, "uplifting": 2}
+  },
+  {
+    "id": "horror_night",
+    "title": "Horror Night",
+    "description": "Creeping dread, jump scares, and nightmares that follow you to bed.",
+    "traits": ["horror", "dark", "intense"],
+    "weights": {"horror": 3, "dark": 2, "intense": 2}
+  },
+  {
+    "id": "mind_bending",
+    "title": "Mind-Bending",
+    "description": "Puzzles within puzzles — narratives that demand a second viewing.",
+    "traits": ["mind-bending", "psychological", "sci-fi"],
+    "weights": {"mind-bending": 3, "psychological": 2, "sci-fi": 1}
+  },
+  {
+    "id": "indie_intimate",
+    "title": "Indie & Intimate",
+    "description": "Small-scale stories with raw performances and authentic emotional beats.",
+    "traits": ["indie", "emotional", "drama"],
+    "weights": {"indie": 3, "emotional": 2, "drama": 2}
+  },
+  {
+    "id": "action_packed",
+    "title": "Action Packed",
+    "description": "Explosions, chase sequences, and heroes who solve problems with sheer determination.",
+    "traits": ["action", "intense", "adventure"],
+    "weights": {"action": 3, "intense": 2, "adventure": 2}
+  },
+  {
+    "id": "fantasy_escape",
+    "title": "Fantasy Escape",
+    "description": "Kingdoms, magic, and quests that pull you far from ordinary life.",
+    "traits": ["fantasy", "epic", "adventure"],
+    "weights": {"fantasy": 3, "epic": 2, "adventure": 1}
+  },
+  {
+    "id": "documentary_real",
+    "title": "Real Stories",
+    "description": "Truth stranger than fiction — documentaries that educate and provoke.",
+    "traits": ["documentary", "thought-provoking", "emotional"],
+    "weights": {"documentary": 3, "thought-provoking": 2, "emotional": 1}
+  },
+  {
+    "id": "musical_energy",
+    "title": "Musical Energy",
+    "description": "Song and dance that elevate emotion and turn ordinary moments into spectacle.",
+    "traits": ["musical", "uplifting", "light"],
+    "weights": {"musical": 3, "uplifting": 2, "light": 1}
+  },
+  {
+    "id": "cozy_slow_burning",
+    "title": "Cozy & Slow Burning",
+    "description": "Unhurried pacing, soft lighting, and emotional warmth that unfolds like tea steeping.",
+    "traits": ["cozy", "drama", "emotional"],
+    "weights": {"cozy": 3, "drama": 2, "emotional": 2}
+  },
+  {
+    "id": "pure_90s_nostalgia",
+    "title": "Pure 90s Nostalgia",
+    "description": "Blockbuster energy, practical effects, and that unmistakable pre-millennium vibe.",
+    "traits": ["nostalgic", "classic", "adventure"],
+    "weights": {"nostalgic": 3, "classic": 2, "adventure": 1}
+  },
+  {
+    "id": "quietly_devastating",
+    "title": "Quietly Devastating",
+    "description": "No loud explosions — just a slow ache that stays with you long after the credits.",
+    "traits": ["emotional", "drama", "indie"],
+    "weights": {"emotional": 3, "drama": 2, "indie": 2}
+  },
+  {
+    "id": "chaotic_unhinged",
+    "title": "Chaotic & Unhinged",
+    "description": "Plots that spiral, characters who break rules, and energy that refuses to calm down.",
+    "traits": ["intense", "dark", "comedy"],
+    "weights": {"intense": 3, "dark": 2, "comedy": 1}
+  },
+  {
+    "id": "late_night_mystery",
+    "title": "Late Night Mystery",
+    "description": "Streetlights, unanswered questions, and the kind of suspense that keeps you awake.",
+    "traits": ["mystery", "thriller", "dark"],
+    "weights": {"mystery": 3, "thriller": 2, "dark": 2}
+  },
+  {
+    "id": "rainy_day_comfort",
+    "title": "Rainy Day Comfort",
+    "description": "Grey skies outside, something gentle on screen, and zero pressure to be productive.",
+    "traits": ["cozy", "light", "heartwarming"],
+    "weights": {"cozy": 3, "light": 2, "heartwarming": 2}
+  },
+  {
+    "id": "smart_but_emotional",
+    "title": "Smart but Emotional",
+    "description": "Ideas that challenge you and characters that make you care — both at once.",
+    "traits": ["thought-provoking", "emotional", "drama"],
+    "weights": {"thought-provoking": 3, "emotional": 2, "drama": 2}
+  },
+  {
+    "id": "fast_and_stylish",
+    "title": "Fast & Stylish",
+    "description": "Slick editing, bold visuals, and momentum that never lets you check your phone.",
+    "traits": ["action", "intense", "witty"],
+    "weights": {"action": 2, "intense": 2, "witty": 2}
+  },
+  {
+    "id": "classic_cinema_mood",
+    "title": "Classic Cinema Mood",
+    "description": "Old Hollywood grandeur, deliberate framing, and performances that feel carved from stone.",
+    "traits": ["classic", "drama", "nostalgic"],
+    "weights": {"classic": 3, "drama": 2, "nostalgic": 2}
+  },
+  {
+    "id": "bittersweet_goodbye",
+    "title": "Bittersweet Goodbye",
+    "description": "Stories about endings — relationships, eras, childhood — handled with tenderness and ache.",
+    "traits": ["emotional", "drama", "nostalgic"],
+    "weights": {"emotional": 3, "drama": 2, "nostalgic": 2}
+  },
+  {
+    "id": "neon_noir",
+    "title": "Neon Noir",
+    "description": "Rain-slick streets, moral ambiguity, and detectives who know the city eats souls.",
+    "traits": ["dark", "mystery", "crime"],
+    "weights": {"dark": 2, "mystery": 3, "crime": 2}
+  },
+  {
+    "id": "found_family",
+    "title": "Found Family",
+    "description": "Misfits who become a crew, proving belonging matters more than blood.",
+    "traits": ["heartwarming", "adventure", "emotional"],
+    "weights": {"heartwarming": 3, "adventure": 1, "emotional": 2}
+  },
+  {
+    "id": "existential_dread",
+    "title": "Existential Dread",
+    "description": "Big questions about meaning, mortality, and what we're all doing here anyway.",
+    "traits": ["thought-provoking", "psychological", "dark"],
+    "weights": {"thought-provoking": 3, "psychological": 2, "dark": 2}
+  },
+  {
+    "id": "campy_fun",
+    "title": "Campy Fun",
+    "description": "Deliberately over-the-top, self-aware, and impossible to watch without grinning.",
+    "traits": ["comedy", "light", "adventure"],
+    "weights": {"comedy": 3, "light": 2, "adventure": 1}
+  },
+  {
+    "id": "melancholy_beauty",
+    "title": "Melancholy Beauty",
+    "description": "Gorgeous frames carrying sadness — art that hurts in the most elegant way.",
+    "traits": ["emotional", "indie", "drama"],
+    "weights": {"emotional": 3, "indie": 2, "drama": 2}
+  },
+  {
+    "id": "revenge_catharsis",
+    "title": "Revenge Catharsis",
+    "description": "Wronged heroes, calculated payback, and the satisfaction of justice served cold.",
+    "traits": ["thriller", "intense", "dark"],
+    "weights": {"thriller": 2, "intense": 3, "dark": 2}
+  },
+  {
+    "id": "whimsical_wonder",
+    "title": "Whimsical Wonder",
+    "description": "Playful imagination, oddball charm, and worlds that feel like storybooks come alive.",
+    "traits": ["fantasy", "light", "family"],
+    "weights": {"fantasy": 2, "light": 2, "family": 2}
+  },
+  {
+    "id": "gritty_realism",
+    "title": "Gritty Realism",
+    "description": "No polish, no filter — life as it is, messy and unflinching.",
+    "traits": ["drama", "indie", "crime"],
+    "weights": {"drama": 3, "indie": 2, "crime": 1}
+  },
+  {
+    "id": "space_odyssey",
+    "title": "Space Odyssey",
+    "description": "Vast silence, distant planets, and the loneliness of reaching beyond Earth.",
+    "traits": ["sci-fi", "epic", "thought-provoking"],
+    "weights": {"sci-fi": 3, "epic": 2, "thought-provoking": 2}
+  },
+  {
+    "id": "coming_of_age",
+    "title": "Coming of Age",
+    "description": "First loves, awkward summers, and the moment childhood quietly ends.",
+    "traits": ["emotional", "nostalgic", "drama"],
+    "weights": {"emotional": 2, "nostalgic": 2, "drama": 2}
+  },
+  {
+    "id": "political_fire",
+    "title": "Political Fire",
+    "description": "Systems, power, protest — stories that argue with the world and demand a response.",
+    "traits": ["thought-provoking", "drama", "intense"],
+    "weights": {"thought-provoking": 3, "drama": 2, "intense": 1}
+  },
+  {
+    "id": "sunday_morning_soft",
+    "title": "Sunday Morning Soft",
+    "description": "Low stakes, gentle pacing, and the cinematic equivalent of pancakes and coffee.",
+    "traits": ["cozy", "light", "heartwarming"],
+    "weights": {"cozy": 2, "light": 3, "heartwarming": 2}
+  }
+]
