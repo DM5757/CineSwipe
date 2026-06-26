@@ -17,7 +17,6 @@ TEST_MODELS = (
     "gemini-2.5-flash-lite",
     "gemini-2.5-flash",
     "gemini-2.0-flash",
-    "gemini-1.5-flash",
 )
 TEST_PROMPT = (
     'Return only this JSON: [{"title":"Inception","year":"2010","match_reason":"Test"}]'

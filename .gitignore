@@ -1,3 +1,6 @@
 .env
-__pycache__/
 .venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+data/working_gemini_model.txt

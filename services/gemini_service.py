@@ -13,7 +13,7 @@ from services.gemini_errors import log_gemini_error
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_GEMINI_MODEL = "gemini-2.0-flash"
+DEFAULT_GEMINI_MODEL = "gemini-2.5-flash-lite"
 WORKING_MODEL_FILE = Path(__file__).resolve().parent.parent / "data" / "working_gemini_model.txt"
 MAX_TITLE_LENGTH = 80
 
@@ -45,7 +45,7 @@ def resolve_gemini_model() -> str:
     Resolve Gemini model with priority:
     1. GEMINI_MODEL from environment
     2. data/working_gemini_model.txt
-    3. gemini-2.0-flash default
+    3. gemini-2.5-flash-lite default
     """
     env_model = os.getenv("GEMINI_MODEL", "").strip()
     if env_model:
